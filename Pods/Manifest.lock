@@ -1,0 +1,25 @@
+PODS:
+  - CTMediator (25)
+  - MediatorCategoryModuleA (1.0.6):
+    - CTMediator
+  - ModuleABusiness (1.0.7)
+
+DEPENDENCIES:
+  - MediatorCategoryModuleA
+  - ModuleABusiness
+
+SPEC REPOS:
+  "git@github.com:YCModulizationTest/YCTestPrivatePods.git":
+    - MediatorCategoryModuleA
+    - ModuleABusiness
+  https://github.com/cocoapods/specs.git:
+    - CTMediator
+
+SPEC CHECKSUMS:
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
+  MediatorCategoryModuleA: 2f2350acc47e94a71244163b3b663602826e96b5
+  ModuleABusiness: 876d1387b94988da13df7cb0c2cb8c4e4d884d37
+
+PODFILE CHECKSUM: 1acd7c988c368d0ec55e54ffb6c354bbf512723e
+
+COCOAPODS: 1.5.3
